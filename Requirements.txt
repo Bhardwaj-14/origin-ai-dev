@@ -1,4 +1,4 @@
-python-dotenv
+dotenv
 groq
 AppOpener
 pywhatkit
@@ -17,3 +17,5 @@ webdriver-manager
 PyQt5
 pyautogui
 pyaudio
+undetected_chromedriver
+

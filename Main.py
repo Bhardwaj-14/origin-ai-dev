@@ -79,7 +79,7 @@ def ShowChatsOnGUI():
             file.write(data)
 
 def InitialExecution():
-    SetMicrophoneStatus("False")
+    SetMicrophoneStatus("Flase")
     ShowTextToScreen("")
     ShowDefaultChatIfNoChats()
     ChatLogIntegration()
