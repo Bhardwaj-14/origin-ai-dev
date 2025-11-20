@@ -115,6 +115,3 @@ def SpeechRecognition():
 
         except Exception as e:
             pass
-
-while True:
-    SpeechRecognition()
